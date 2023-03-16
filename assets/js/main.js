@@ -180,9 +180,15 @@ const themeButton = document.getElementById("theme-button");
 const darkTheme = "dark-theme";
 const iconTheme = "uil-sun";
 
-// Set default theme to dark
+// Add the 'dark-theme' class to the body by default
 document.body.classList.add(darkTheme);
+
+// Set the default icon to 'uil-moon'
 themeButton.classList.add(iconTheme);
+
+// Save the default theme and icon to localStorage
+localStorage.setItem("selected-theme", "dark");
+localStorage.setItem("selected-icon", "uil-moon");
 
 // Previously selected topic (if user selected)
 const selectedTheme = localStorage.getItem("selected-theme");
@@ -212,6 +218,7 @@ themeButton.addEventListener("click", () => {
   localStorage.setItem("selected-theme", getCurrentTheme());
   localStorage.setItem("selected-icon", getCurrentIcon());
 });
+
 
 // Typing Animation using Typed JS
 var typed = new Typed(".type", {
