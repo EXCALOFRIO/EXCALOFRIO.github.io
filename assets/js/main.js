@@ -179,9 +179,11 @@ window.addEventListener("scroll", scrollUpfunc);
 const themeButton = document.getElementById("theme-button");
 const darkTheme = "dark-theme";
 const iconTheme = "uil-sun";
+
 // Set default theme to dark
 document.body.classList.add(darkTheme);
 themeButton.classList.add(iconTheme);
+
 // Previously selected topic (if user selected)
 const selectedTheme = localStorage.getItem("selected-theme");
 const selectedIcon = localStorage.getItem("selected-icon");
