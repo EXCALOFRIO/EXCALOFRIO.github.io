@@ -4,7 +4,8 @@
   --header-height: 3rem;
 
   --hue-color: 250;
-  --first-color: hsl(var(--hue-color), 69%, 61%); /* #6e57e0 */
+  /*--first-color: hsl(var(--hue-color), 69%, 61%); /* #6e57e0 */
+  --first-color: #5881FA;
   --first-color-second: hsl(var(--hue-color), 69%, 61%);
   --first-color-alt: hsl(var(--hue-color), 57%, 53%); /* #7d6bd6 */
   --first-color-lighter: hsl(var(--hue-color), 92%, 85%); /* #c2b6fc */
@@ -27,6 +28,7 @@
   --normal-font-size: 0.938rem;
   --small-font-size: 0.813rem;
   --smaller-font-size: 0.75rem;
+
 
   --font-medium: 500;
   --font-semi-bold: 600;
@@ -75,6 +77,13 @@ body.dark-theme {
   display: flex;
   align-items: center;
 }
+
+.aficiones_img {
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  margin-top: -4rem;
+  }
 
 .change-theme {
   font-size: 1.25rem;
@@ -364,8 +373,9 @@ button {
 }
 
 .button:hover {
-  background-color: var(--first-color-alt);
+  background-color: #005be4;
 }
+
 
 .button-flex {
   display: inline-flex;
@@ -839,6 +849,10 @@ button {
     grid-column: initial;
   }
 
+  .aficiones_description {
+    width: 150%;
+    margin: 0 auto;
+    }
   .home_img {
     order: 1;
     justify-self: center;

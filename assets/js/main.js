@@ -91,6 +91,7 @@ skillHeaderArr.forEach((element, idx) => {
   });
 });
 
+
 // QUALIFICATION TABS
 let education = document.getElementById("education");
 let work = document.getElementById("work");
