@@ -1051,3 +1051,99 @@ button {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-19.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-19.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-19.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-8.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-8.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-8.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-9.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-9.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-9.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-17.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-17.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-17.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-5.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-5.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-5.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-13.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-13.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-13.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-18.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-18.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-18.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-15.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-15.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-15.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-4.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-4.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-4.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-2.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-2.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-2.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-11.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-11.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-11.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Unicons";
+  src: url("https://excalofrio.github.io/fonts/line/unicons-3.woff2") format("woff2"),
+    url("https://excalofrio.github.io/fonts/line/unicons-3.woff") format("woff"),
+    url("https://excalofrio.github.io/fonts/line/unicons-3.ttf") format("truetype");
+  font-display: swap;
+}
